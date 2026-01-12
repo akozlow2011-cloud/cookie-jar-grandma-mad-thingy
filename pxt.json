@@ -1,5 +1,6 @@
 {
     "name": "Cookie Jar Grandma Mad thingy",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
